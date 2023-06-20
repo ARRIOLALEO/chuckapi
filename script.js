@@ -13,7 +13,7 @@ function displayOnTheScreen(joke){
 
 async function callToAPI(){
     try{
-    const req =  await fetch('https://api.chucknorris.io/jokes/random')
+    const req =  await fetch('https://api.chucknorris.io/jokes/random?name=Mario&category=dev')
     const res =  await req.json()
     displayOnTheScreen(res)
 
