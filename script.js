@@ -25,3 +25,17 @@ async function callToAPI(){
 }
 
 
+// get elements from the DOM
+// get the value from dom elements
+// add events listeners
+//know how functions works
+// we need to know how to pass data in function 
+// async await.
+// use interpolation ``
+
+// if
+// for loop
+// HOF
+// const var
+// objects and data types
+
